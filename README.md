@@ -170,5 +170,5 @@ This project is for educational and internship purposes.
 
 ## 👨‍💻 Author
 
-**Developed by:** \[Your Name Here]
+**Developed by:** Yusef Arif
 **Task Provided by:** Web Masters Frontend Internship
