@@ -137,7 +137,7 @@ function App() {
   ];
 
   return (
-    <section className="m-4">
+    <section className="m-4 flex flex-col gap-7">
       <div>
         <h1 className="text-4xl text-black font-semibold">Button component:</h1>
         <div className="flex flex-col items-start justify-center gap-4 m-4">
@@ -198,8 +198,7 @@ function App() {
             theme="danger"
             onClick={() => setToast(true)}
           />
-          {toast && (
-          <Toast message="button clicked!" setToast={setToast} />)}
+          {toast && <Toast message="button clicked!" setToast={setToast} />}
         </div>
       </div>
     </section>
