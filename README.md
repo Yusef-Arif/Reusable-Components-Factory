@@ -156,12 +156,6 @@ Popup message component (e.g. for alerts).
 
 ---
 
-## 🚀 Bonus Idea
-
-You can integrate Storybook or build a simple Docs page to preview and test each component interactively.
-
----
-
 ## 📅 License
 
 This project is for educational and internship purposes.
